@@ -1,0 +1,20 @@
+h1 {color: rgb(0, 0, 0);}
+
+.header 
+{
+    background-color: #aceedd;
+    display : flex;
+    justify-content: space-between;
+}
+.projects
+{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+}
+.youtubediscord
+{
+ display: flex;
+ border: 2px rgb(255, 10, 10);
+ background-color: #c031e4;
+}
