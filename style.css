@@ -1,12 +1,12 @@
 h1 {color: rgb(0, 0, 0);}
 
-.header 
+.title 
 {
     background-color: #aceedd;
     display : flex;
     justify-content: space-between;
 }
-.projects
+.Cricketers
 {
     background-color: brown;
     display: flex;
@@ -14,7 +14,7 @@ h1 {color: rgb(0, 0, 0);}
 }
 .youtubediscord
 {
- display: flex;
- border: 2px rgb(255, 10, 10);
- background-color: #c031e4;
+    background-color: rgb(69, 15, 105);
+    display: inline-flex;
+    justify-content: space-around;
 }
